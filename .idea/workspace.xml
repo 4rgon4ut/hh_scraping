@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3685d83f-c5cc-4dfd-aa72-faeb9bb7d263" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIGPQxTOwa6Fw4Mec9N7jKGHAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorial" />
+  </component>
+  <component name="RunManager" selected="Python.sorting_and_statistics">
+    <configuration name="HH_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HH_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HH_crawler/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HH_crawler/spiders/HH_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sorting_and_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HH_crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HH_crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HH_crawler/sorting_and_statistics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sorting_and_statistics" />
+        <item itemvalue="Python.HH_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3685d83f-c5cc-4dfd-aa72-faeb9bb7d263" name="Default Changelist" comment="" />
+      <created>1584519169827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584519169827</updated>
+      <workItem from="1584519174374" duration="2870000" />
+      <workItem from="1584596997283" duration="10282000" />
+      <workItem from="1584649251118" duration="2530000" />
+      <workItem from="1584664293068" duration="3851000" />
+      <workItem from="1584834304388" duration="2048000" />
+      <workItem from="1584841779370" duration="9562000" />
+      <workItem from="1584966615195" duration="6406000" />
+      <workItem from="1585025197738" duration="605000" />
+      <workItem from="1585037331772" duration="772000" />
+      <workItem from="1585038224079" duration="37000" />
+      <workItem from="1585104403883" duration="10518000" />
+      <workItem from="1585191277027" duration="8847000" />
+      <workItem from="1585280886308" duration="5348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="171" key="#HH_spider" timestamp="1584842956678">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="391" y="171" key="#HH_spider/0.0.1920.1050@0.0.1920.1050" timestamp="1584842956678" />
+    <state x="1021" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584667061781">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1021" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584667061781" />
+    <state x="1025" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585284812987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1025" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585284812987" />
+    <state x="1226" y="280" key="FileChooserDialogImpl" timestamp="1584597255067">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1226" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584597255067" />
+    <state width="956" height="972" key="GridCell.Tab.0.bottom" timestamp="1585284878661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="956" height="972" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585284878661" />
+    <state width="956" height="972" key="GridCell.Tab.0.center" timestamp="1585284878661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="956" height="972" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585284878661" />
+    <state width="956" height="972" key="GridCell.Tab.0.left" timestamp="1585284878660">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="956" height="972" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585284878660" />
+    <state width="956" height="972" key="GridCell.Tab.0.right" timestamp="1585284878661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="956" height="972" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585284878661" />
+    <state width="1874" height="314" key="GridCell.Tab.1.bottom" timestamp="1585206951410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585206951410" />
+    <state width="1874" height="314" key="GridCell.Tab.1.center" timestamp="1585206951410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585206951410" />
+    <state width="1874" height="314" key="GridCell.Tab.1.left" timestamp="1585206951410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585206951410" />
+    <state width="1874" height="314" key="GridCell.Tab.1.right" timestamp="1585206951410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585206951410" />
+    <state x="1098" y="579" key="com.intellij.ide.util.TipDialog" timestamp="1585280888124">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1098" y="579" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585280888124" />
+    <state x="244" y="214" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584841854073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="244" y="214" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1584841854073" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HH_crawler$sorting_and_statistics.coverage" NAME="sorting_and_statistics Coverage Results" MODIFIED="1585284878656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HH_crawler" />
+    <SUITE FILE_PATH="coverage/HH_crawler$HH_spider.coverage" NAME="HH_spider Coverage Results" MODIFIED="1585108606018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HH_crawler/spiders" />
+  </component>
+</project>
