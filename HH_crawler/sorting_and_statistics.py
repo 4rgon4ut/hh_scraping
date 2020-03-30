@@ -1,18 +1,24 @@
+# This module is for calculating and analysing scraped data.
+
 import csv
 from operator import itemgetter
-import pandas as pd
 import re
+
+import pandas as pd
+
 
 skills_count = 0
 stats = {}
 salary_list = []
-with open('data.csv', newline='') as data:
+file_name = 'data.csv'
+
+with open(file_name, newline='') as data:
     reader = csv.reader(data, delimiter='"')
     for row in reader:
         if len(row) > 2:
             skills = row[0]
-            salary = re.findall(r'\d+.\d+', row[1])
-            salary = [int(re.sub(r'\xa0', '', item)) for item in salary]
+            salary_items = re.findall(r'\d+.\d+', row[1])
+            salary = [int(re.sub(r'\xa0', '', item)) for item in salary_items]
             salary_list.extend(salary)
             for element in skills.split(','):
                 if len(element) > 1:
