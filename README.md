@@ -17,3 +17,4 @@ Then scraped data calculating and analysing in HH_crawler/statistics.py :
 
     $python3 statistics.py
 
+statistics.py using pandas and some built-in python libs
