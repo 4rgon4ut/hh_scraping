@@ -1,12 +1,10 @@
 import scrapy
 
 
-class HHspider(scrapy.Spider):
+class HhSpider(scrapy.Spider):
     name = 'hh_spider'
-    start_urls = [
-        'https://hh.ru/search/vacancy?clusters=true&area=1&enable_snippets=tru'
-        'e&salary=&st=searchVacancy&text=Python+back-end&from=suggest_post'
-        ]
+    print('Now input start url for spider:')
+    start_urls = [str(input())]
 
     def parse(self, response):
 

@@ -8,7 +8,7 @@ import pandas as pd
 
 
 def analyse_data(filename):
-    with open(filename, newline='') as data:
+    with open('./' + filename, newline='') as data:
         reader = csv.reader(data, delimiter='"')
         for row in reader:
             if len(row) > 2:
@@ -22,7 +22,8 @@ def analyse_data(filename):
 
 
 salary_list = []
-file_name = 'data.csv'
+print('Input filename to analyze data:')
+file_name = str(input())
 skills_list = []
 for ele in analyse_data(file_name):
     skills_list.extend(ele)
