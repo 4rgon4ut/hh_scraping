@@ -13,8 +13,8 @@ You just need :
 
 (from project directory)
 
-                           **************************     
-                                
+                           
+                           
 In scrapy parsers calling 'spiders' , so spider is HH_crawler/spiders/HH_spider.py
 
 This spider crawl pages and scraping data from every vacancy to file by command : 
@@ -27,7 +27,6 @@ Then scraped data calculating and analysing in HH_crawler/statistics.py :
 
     $python3 statistics.py
 
-statistics.py using pandas and some built-in python libs
+statistics.py using pandas and some built-in python libs 
                            
-                           **************************
                         
